@@ -69,7 +69,7 @@ more. Then followed by another 0 or more and another '/' with all of this being 
 
 ### Character Escapes
 
-* A cpuple of Character Escapes are used in this expression since we are looking for '/' or '.', in order for use to find the 'actual' character we need to escape them since they are part of Metacharacters or Quantifiers. 
+* A couple of Character Escapes are used in this expression since we are looking for '/' or '.', in order for use to find the 'actual' character we need to escape them since they are part of Metacharacters or Quantifiers. 
 
 ## Author
 
